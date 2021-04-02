@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\erik.henning\\OneDrive - 2checkout.com Inc\\Documents\\VerifoneIPNSample\\VerifoneIPNSample.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\erik.henning\\OneDrive - 2checkout.com Inc\\Documents\\VerifoneIPNSample\\VerifoneIPNSample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\erik.henning\\OneDrive - 2checkout.com Inc\\Documents\\VerifoneIPNSample\\VerifoneIPNSample.csproj",
+        "projectName": "VerifoneIPNSample",
+        "projectPath": "c:\\Users\\erik.henning\\OneDrive - 2checkout.com Inc\\Documents\\VerifoneIPNSample\\VerifoneIPNSample.csproj",
+        "packagesPath": "C:\\Users\\erik.henning\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\erik.henning\\OneDrive - 2checkout.com Inc\\Documents\\VerifoneIPNSample\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\erik.henning\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
